@@ -1,16 +1,39 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
 
-<!--
-**44J-jottabyte/44J-jottabyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/44J-jottabyte?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=44J-jottabyte&layout=compact&theme=tokyonight&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=44J-jottabyte&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+```yaml
+def github_profile():
+    skills = {
+        "languages": ["Python", "Java", "C++"],
+        "frameworks": ["Spring Boot", "Django"],
+        "tools": ["Gradle", "Git", "Docker"]
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    return {
+        "name": name or 'Anonymous',
+        "title": "Backend Developer",
+        "bio": "Not Found",
+        "skills": skills,
+        "contact": None,
+    }
+
+profile_data = github_profile()
+```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
