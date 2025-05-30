@@ -2,7 +2,7 @@
   <tr>
     <td>
       <a href="https://github.com/EugeneKhalilzade?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneKhalilzade&layout=compact&theme=tokyonight&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api?username=EugeneKhalilzade&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="Top Langs" />
       </a>
     </td>
     <td>
