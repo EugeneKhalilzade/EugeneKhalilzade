@@ -14,7 +14,7 @@
 ```yaml
 def github_profile():
     skills = {
-        "languages": ["Python", "Java", "C++"],
+        "languages": ["Java", "C#", "Python", "C++"],
         "frameworks": ["Spring Boot", "Django"],
         "tools": ["Gradle", "Git", "Docker"]
     }
