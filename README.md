@@ -7,24 +7,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EugeneKhalilzade&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-```yaml
-def github_profile():
-    skills = {
-        "languages": ["Java", "C#", "Python", "C++"],
-        "frameworks": ["Spring Boot", "Django"],
-        "tools": ["Gradle", "Git", "Docker"]
-    }
-
-    return {
-        "name": name or 'Anonymous',
-        "title": "Backend Developer",
-        "bio": "Not Found",
-        "skills": skills,
-        "contact": None,
-    }
-
-profile_data = github_profile()
-```
